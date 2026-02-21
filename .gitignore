@@ -8,7 +8,6 @@ debug.sh
 debug.py
 *.slurm
 *.out
-*.png
 utils/pointnet_lib/pointnet2.egg-info
 utils/pointnet_lib/dist
 utils/pointnet_lib/build
