@@ -1,0 +1,15 @@
+outputs/*
+.vscode/*
+__pycache__/*
+__pycache__/
+*.pyc
+data/*
+debug.sh
+debug.py
+*.slurm
+*.out
+*.png
+utils/pointnet_lib/pointnet2.egg-info
+utils/pointnet_lib/dist
+utils/pointnet_lib/build
+ztosave/

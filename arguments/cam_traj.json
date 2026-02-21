@@ -1,0 +1,234 @@
+{
+    "paris": {
+        "sapien": {
+            "foldchair_102255": {
+                "radius": 3,
+                "theta": [-0, 0.1],
+                "d_theta": 0.2,
+                "phi": [0, 2],
+                "d_phi": -0.75,
+                "rotx90": 0,
+                "roty180": 0
+            },
+            "fridge_10905": {
+                "radius": 3.5,
+                "theta": [-0, 0.1],
+                "d_theta": 0.2,
+                "phi": [0, 2],
+                "d_phi": -0.75,
+                "rotx90": 0,
+                "roty180": 0
+            },
+            "laptop_10211": {
+                "radius": 3.5,
+                "theta": [-0, 0.1],
+                "d_theta": 0.2,
+                "phi": [0, 2],
+                "d_phi": -0.75,
+                "rotx90": 0,
+                "roty180": 0
+            },
+            "oven_101917": {
+                "radius": 3.5,
+                "theta": [-0, 0.1],
+                "d_theta": 0.2,
+                "phi": [0, 2],
+                "d_phi": -0.75,
+                "rotx90": 0,
+                "roty180": 0
+            },
+            "scissor_11100": {
+                "radius": 3,
+                "theta": [-0, 0.1],
+                "d_theta": 0.2,
+                "phi": [0, 2],
+                "d_phi": -0.75,
+                "rotx90": 0,
+                "roty180": 0
+            },
+            "stapler_103111": {
+                "radius": 3,
+                "theta": [-0, 0.1],
+                "d_theta": 0.2,
+                "phi": [0, 2],
+                "d_phi": -0.75,
+                "rotx90": 0,
+                "roty180": 0
+            },
+            "USB_100109": {
+                "radius": 3.5,
+                "theta": [-0, 0.1],
+                "d_theta": 0.2,
+                "phi": [0, 2],
+                "d_phi": -0.75,
+                "rotx90": 0,
+                "roty180": 0
+            },
+            "washer_103776": {
+                "radius": 3.5,
+                "theta": [-0, 0.1],
+                "d_theta": 0.2,
+                "phi": [0, 2],
+                "d_phi": -0.75,
+                "rotx90": 0,
+                "roty180": 0
+            },
+            "blade_103706": {
+                "radius": 3.5,
+                "theta": [-0, 0.1],
+                "d_theta": 0.2,
+                "phi": [0, 2],
+                "d_phi": -0.75,
+                "rotx90": 0,
+                "roty180": 0
+            },
+            "storage_45135": {
+                "radius": 3.5,
+                "theta": [-0, 0.1],
+                "d_theta": 0.2,
+                "phi": [0, 2],
+                "d_phi": -0.75,
+                "rotx90": 0,
+                "roty180": 0
+            }
+        },
+        "realscan": {
+            "real_fridge": {
+                "radius": 2,
+                "theta": [-0.2, 0.2],
+                "d_theta": 0.1,
+                "phi": [0, 0.5],
+                "d_phi": -0.75,
+                "rotx90": 0,
+                "roty180": 0
+            },
+            "real_storage": {
+                "radius": 3,
+                "theta": [-0, 0.05],
+                "d_theta": 0.3,
+                "phi": [-0.3, 0.3],
+                "d_phi": -0.45,
+                "rotx90": 0,
+                "roty180": 0
+            }
+        }
+    },
+    "dta": {
+        "sapien": {
+            "fridge_10489": {
+                "radius": 4,
+                "theta": [-0, 0.1],
+                "d_theta": 0.1,
+                "phi": [0, 2],
+                "d_phi": -0.75,
+                "rotx90": 0,
+                "roty180": 0
+            },
+            "storage_47254": {
+                "radius": 4,
+                "theta": [-0, 0.1],
+                "d_theta": 0.1,
+                "phi": [0, 2],
+                "d_phi": -0.75,
+                "rotx90": 0,
+                "roty180": 0
+            }
+        }
+    },
+    "artgs": {
+        "sapien": {
+            "oven_101908": {
+                "radius": 4,
+                "theta": [-0, 0.1],
+                "d_theta": 0.1,
+                "phi": [0, 2],
+                "d_phi": -0.75,
+                "rotx90": 0,
+                "roty180": 0
+            },
+            "table_25493": {
+                "radius": 4,
+                "theta": [-0, 0.1],
+                "d_theta": 0.1,
+                "phi": [0, 2],
+                "d_phi": -0.75,
+                "rotx90": 0,
+                "roty180": 0
+            },
+            "storage_45503": {
+                "radius": 4,
+                "theta": [-0, 0.1],
+                "d_theta": 0.1,
+                "phi": [0, 2],
+                "d_phi": -0.75,
+                "rotx90": 0,
+                "roty180": 0
+            },
+            "storage_47648": {
+                "radius": 4,
+                "theta": [-0, 0.1],
+                "d_theta": 0.1,
+                "phi": [0, 2],
+                "d_phi": -0.75,
+                "rotx90": 0,
+                "roty180": 0
+            },
+            "table_31249": {
+                "radius": 4,
+                "theta": [-0, 0.1],
+                "d_theta": 0.1,
+                "phi": [0, 2],
+                "d_phi": -0.75,
+                "rotx90": 0,
+                "roty180": 0
+            }
+        },
+        "realscan": {
+            "washingmachine_1r": {
+                "radius": 1.5,
+                "theta": [-0.1, 0.0],
+                "d_theta": 0.1,
+                "phi": [0, 0.3],
+                "d_phi": -0.5,
+                "rotx90": 1,
+                "roty180": 0
+            },
+            "cabinet_1r_white": {
+                "radius": 1.5,
+                "theta": [-0.1, 0.0],
+                "d_theta": 0.1,
+                "phi": [0, 0.3],
+                "d_phi": -0.5,
+                "rotx90": 1,
+                "roty180": 0
+            },
+            "cabinet_3r_white": {
+                "radius": 1.5,
+                "theta": [-0.1, 0.0],
+                "d_theta": 0.1,
+                "phi": [0, 0.25],
+                "d_phi": -0.5,
+                "rotx90": 1,
+                "roty180": 0
+            },
+            "cabinet_1r2p_transparent": {
+                "radius": 2.5,
+                "theta": [-0.1, 0.0],
+                "d_theta": 0.1,
+                "phi": [0, 0.25],
+                "d_phi": -0.5,
+                "rotx90": 1,
+                "roty180": 0
+            },
+            "microwave": {
+                "radius": 1,
+                "theta": [-0.1, 0.0],
+                "d_theta": 0.1,
+                "phi": [0, 0.3],
+                "d_phi": -0.5,
+                "rotx90": 1,
+                "roty180": 0
+            }
+        }
+    }
+}

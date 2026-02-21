@@ -1,0 +1,47 @@
+{
+    "paris": {
+        "sapien": {
+            "foldchair_102255": "s,r",
+            "fridge_10905": "s,r",
+            "laptop_10211": "s,r",
+            "oven_101917": "s,r",
+            "scissor_11100": "s,r",
+            "stapler_103111": "s,r",
+            "USB_100109": "s,r",
+            "washer_103776": "s,r",
+            "blade_103706": "s,p",
+            "storage_45135": "s,p"
+        },
+        "realscan": {
+            "real_fridge": "s,r",
+            "real_storage": "s,p"
+        }
+    },
+    "dta": {
+        "sapien": {
+            "fridge_10489": "s,r,r",
+            "storage_47254": "s,p,r"
+        }
+    },
+    "artgs": {
+        "sapien": {
+            "oven_101908": "s,r,r,r",
+            "table_25493": "s,p,p,p",
+            "storage_45503": "s,r,r,r",
+            "storage_47648": "s,p,p,r,r,r,r",
+            "table_31249": "s,p,r,p,r"
+        },
+        "realscan": {
+            "cabinet_2drawer": "s,p,p",
+            "washingmachine_1r": "s,r",
+            "fridge_3r": "s,r,r,r",
+            "cabinet_1r_white": "s,r",
+            "cabinet_3r_white": "s,r,r,r",
+            "printer2_2p_1r_white": "s,p,p,r",
+            "cabinet_1r2p_transparent": "s,p,p,r",
+            "microwave": "s,r",
+            "drawer_2p_1r_brown": "s,p,p,r"
+        }
+    },
+    "table_25493": "s,r,p,r"
+}
