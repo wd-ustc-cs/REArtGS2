@@ -35,14 +35,14 @@
 </div>
 </div>
 
+<div align="center">
+  <img src="assets/method.png" width="80%">
+</div>
+
 ## TODO
 - [ ] Release pretrained model
 - [ ] Release evaluation code
 - [ ] Release screw motion
-
-<div align="center">
-  <img src="assets/method.png" width="80%">
-</div>
 
 ## Data Preparation
 Following ArtGS (https://github.com/YuLiu-LY/ArtGS.git), please download the data from [HuggingFace](https://huggingface.co/datasets/YuLiu/ArtGS-Dataset).
