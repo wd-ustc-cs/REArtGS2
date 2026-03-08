@@ -66,7 +66,7 @@ class ModelParams(ParamGroup):
         self.slot_size = 32
         self.gumbel = True
         self.scale_factor = 1.
-        self.use_art_type_prior = False
+        self.use_art_type_prior = True
         self.revolute_constraint = False
         self.dynamic_threshold_ratio = 0.02
         self.cd_min_steps = 1000
@@ -165,3 +165,4 @@ def get_combined_args(parser: ArgumentParser):
         if v != None:
             merged_dict[k] = v
     return Namespace(**merged_dict)
+
