@@ -35,6 +35,11 @@
 </div>
 </div>
 
+## TODO
+- [ ] Release pretrained model
+- [ ] Release evaluation code
+- [ ] Release screw motion
+
 <div align="center">
   <img src="assets/method.png" width="80%">
 </div>
