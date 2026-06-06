@@ -40,9 +40,12 @@
 </div>
 
 ## TODO
-- [ ] Release pretrained model
-- [ ] Release evaluation code
+- [✓] Release pretrained model
+- [✓] Release evaluation code
 - [ ] Release screw motion
+
+## Pretrained Model
+Our pretrained models can be download from https://drive.google.com/drive/folders/13yAez-g9lZlPnwbe8KVikroF0VIJyKoY?usp=drive_link.
 
 ## Data Preparation
 Following ArtGS (https://github.com/YuLiu-LY/ArtGS.git), please download the data from [HuggingFace](https://huggingface.co/datasets/YuLiu/ArtGS-Dataset).
@@ -107,11 +110,13 @@ Use RGB-D or monocular depth estimated by [DepthAnythingV2](https://github.com/D
 ## Citation
 If you find our paper and/or code helpful, please consider citing:
 ```
-@article{wu2025reartgs++,
-  title={REArtGS++: Generalizable Articulation Reconstruction with Temporal Geometry Constraint via Planar Gaussian Splatting},
-  author={Wu, Di and Liu, Liu and Huang, Anran and Liu, Yuyan and Yu, Qiaojun and Liu, Shaofan and Song, Liangtu and Lu, Cewu},
-  journal={arXiv preprint arXiv:2511.17059},
-  year={2025}
+@InProceedings{Wu_2026_CVPR,
+    author    = {Wu, Di and Liu, Liu and Huang, Anran and Liu, Yuyan and Yu, Qiaojun and Liu, Shaofan and Song, Liangtu and Lu, Cewu},
+    title     = {REArtGS++: Generalizable Articulation Reconstruction with Temporal Geometry Constraint via Planar Gaussian Splatting},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {1177-1186}
 }
 ```
 
