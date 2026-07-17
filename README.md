@@ -1,40 +1,18 @@
+<!-- ## [Project page](https://sites.google.com/view/reartgs2/home/) | [Paper](https://arxiv.org/pdf/2511.17059) -->
+> ### REArtGS++: Generalizable Articulation Reconstruction with Temporal Geometry Constraint via Planar Gaussian Splatting
+>
+> Di Wu, Liu Liu, Anran Huang, Yuyan Liu, Qiaojun Yu, Liu Shaofan, Liangtu Song, Cewu Lu
+>
+> **CVPR 2026**
+>
+> [Arxiv](https://arxiv.org/pdf/2511.17059) | [Website](https://sites.google.com/view/reartgs2/home)
 
-<div align="center">
+> ### Towards Generalizable Geometric, Kinematic, and Physical Reconstruction of Articulated Objects via Part-Aware Planar Gaussian Splatting
+> **Extended Version, Under Review**
+> 
+> [Website](https://sites.google.com/view/physartgs/home)
 
-# **REArtGS++**: Generalizable Articulation Reconstruction with Temporal Geometry Constraint via Planar Gaussian Splatting
-# CVPR 2026
-
-<div align="center" margin-bottom="6em">
-    <span class="author-block">
-        Di Wu</a><sup>1,2,4</sup>,</span>
-    <span class="author-block">
-        Liu Liu</a><sup>3,*</sup>,</span>
-    <span class="author-block">
-        Anran Huang</a><sup>3</sup>,</span>
-    <span class="author-block">
-        Yuyan Liu</a><sup>3</sup>,</span>
-    <span class="author-block">
-        Qiaojun Yu</a><sup>5</sup>,</span>
-    <span class="author-block">
-        Liu Shaofan</a><sup>3</sup></span>
-    <span class="author-block">
-        Liangtu Song</a><sup>1</sup></span>
-    <span class="author-block">
-        Cewu Lu</a><sup>5</sup></span>
-    <br>
-    <p style="font-size: 0.9em; padding: 0.5em 0;">✶ indicates corresponding author</p>
-    <span class="author-block">
-        <sup>1</sup>Hefei Institutes of Physical Science, Chinese Academy of Sciences<br>
-        <sup>2</sup>University of Science and Technology of China<br>
-        <sup>3</sup>Hefei University of Technology<br>
-        <sup>4</sup>RoboticsX, Tencent<br>
-        <sup>5</sup>Shanghai Jiao Tong University<br>
-    </span>
-
-[Website](https://sites.google.com/view/reartgs2/home/) | [Arxiv](https://arxiv.org/pdf/2511.17059)
-</div>
-</div>
-
+## Framework
 <div align="center">
   <img src="assets/method.png" width="80%">
 </div>
@@ -43,6 +21,7 @@
 - [✓] Release pretrained model
 - [✓] Release evaluation code
 - [ ] Release screw motion
+- [ ] Release physical estimation code
 
 ## Pretrained Model
 Our pretrained models can be download from https://drive.google.com/drive/folders/13yAez-g9lZlPnwbe8KVikroF0VIJyKoY?usp=drive_link.
@@ -122,4 +101,3 @@ If you find our paper and/or code helpful, please consider citing:
 
 ## Acknowledgement
 This code heavily used resources from [ArtGS](https://github.com/YuLiu-LY/ArtGS.git), [PGSR](https://github.com/zju3dv/PGSR.git), [REArtGS](https://github.com/wd-ustc-cs/REArtGS.git). We thank the authors for their awesome projects.
-
